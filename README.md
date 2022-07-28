@@ -8,7 +8,9 @@ The purpose of this analysis is to practice with sqlite to work with databases i
 
 The June and Decemeber summary data can be found below:
 
-![june_temps.PNG](https://github.com/mcwatts88/surfs_up/blob/main/Resources/june_temps.PNG) ![dec_temps.PNG](https://github.com/mcwatts88/surfs_up/blob/main/Resources/dec_temps.PNG)
+![june_temps.PNG](https://github.com/mcwatts88/surfs_up/blob/main/Resources/june_temps.PNG)
+
+![dec_temps.PNG](https://github.com/mcwatts88/surfs_up/blob/main/Resources/dec_temps.PNG)
 
 * The mean temp in June is roughly 75(U+00B0)F and the mean temp in December is 71(U+00B0)F.
 
