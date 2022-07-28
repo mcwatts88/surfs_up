@@ -12,9 +12,9 @@ The June and Decemeber summary data can be found below:
 
 ![dec_temps.PNG](https://github.com/mcwatts88/surfs_up/blob/main/Resources/dec_temps.PNG)
 
-* The mean temp in June is roughly 75(U+00B0)F and the mean temp in December is 71(U+00B0)F.
+* The mean temp in June is roughly 75&deg;F and the mean temp in December is 71&deg;F.
 
-* The range of temperatures in December is higher with a 27(U+00B0) difference between the minimum and maximum temperature. The range in June is only 21(U+00B0).
+* The range of temperatures in December is higher with a 27&deg; difference between the minimum and maximum temperature. The range in June is only 21&deg;.
 
 * The standard deviation further shows the variance in temperature is higher in December than in June.
 
