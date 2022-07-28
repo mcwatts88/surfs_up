@@ -23,7 +23,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return ("""
+    return """
         
     Welcome to the Climate Analysis API!\n
         
@@ -37,7 +37,7 @@ def welcome():
 
     /api/v1.0/temp/start/end
 
-    """)
+    """
 
 
 @app.route("/api/v1.0/precipitation")
@@ -98,3 +98,7 @@ def stats(start=None, end=None):
     )
     temps = list(np.ravel(results))
     return jsonify(temps)
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
